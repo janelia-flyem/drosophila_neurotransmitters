@@ -24,6 +24,8 @@ adult_drosophila_melanogaster,central_brain,MBp1,,KCg-m,,Aso et al. 2019,scRNA-s
 adult_drosophila_melanogaster,central_brain,MBp4,,KCg-s1,,Aso et al. 2019,scRNA-seq,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,central_brain,MBp4,,KCg-s2,,Aso et al. 2019,scRNA-seq,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,central_brain,MBp1,,KCg-s3,,Aso et al. 2019,scRNA-seq,3,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,central_brain,MBp1,,KCg,,A couple unspecified Kenyon cells in the MCNS have type KCg so we hard-coded acetylcholine for this type,hard-coded,3,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,central_brain,MBp1,,KC,,A couple unspecified Kenyon cells in the MCNS have type KC so we hard-coded acetylcholine for this type,hard-coded,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,central_brain,putative_primary,,MBON01,,Aso et al. 2019,scRNA-seq,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,central_brain,DL1_dorsal,,MBON17,,Aso et al. 2019,scRNA-seq,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,central_brain,DL1_dorsal,,MBON17-like,,Aso et al. 2019,scRNA-seq,3,1,0,0,0,0,0,0,0,0,0
